@@ -155,7 +155,7 @@ export class Sidebar implements AfterContentInit, OnInit, OnChanges, OnDestroy {
     if (!this._container) {
       throw new Error(
         '<ng-sidebar> must be inside a <ng-sidebar-container>. ' +
-        'See https://github.com/arkon/ng-sidebar#usage for more info.'
+        'See https://github.com/angdepver/ng-sidebar-18#usage for more info.'
       );
     }
 
