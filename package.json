@@ -1,14 +1,14 @@
 {
-  "name": "ng-sidebar",
+  "name": "ng-sidebar-v4",
   "version": "9.4.4",
   "description": "Angular sidebar component.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/angdepver/ng-sidebar-18.git"
+    "url": "https://github.com/angdepver/ng-sidebar-v4.git"
   },
   "homepage": "http://echeung.me/ng-sidebar/",
   "bugs": {
-    "url": "https://github.com/angdepver/ng-sidebar-18/issues"
+    "url": "https://github.com/angdepver/ng-sidebar-v4/issues"
   },
   "files": [
     "lib_commonjs/*",
