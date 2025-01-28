@@ -4,6 +4,7 @@ import { Sidebar } from './sidebar.component';
 
 @Directive({
   selector: '[closeSidebar]',
+  standalone: false,
   host: {
     '(click)': '_onClick()'
   }

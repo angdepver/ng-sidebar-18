@@ -19,6 +19,7 @@ import { Sidebar } from './sidebar.component';
 // Based on https://github.com/angular/material2/tree/master/src/lib/sidenav
 @Component({
   selector: 'ng-sidebar-container',
+  standalone: false,
   template: `
     <div *ngIf="showBackdrop"
       aria-hidden="true"
